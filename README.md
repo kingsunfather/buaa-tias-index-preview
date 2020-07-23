@@ -1,2 +1,2 @@
 # buaa-tias-preview
-预览文本处理平台样式
+LDMC文本处理平台介绍页静态资源
